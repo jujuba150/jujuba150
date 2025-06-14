@@ -17,7 +17,7 @@
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/JujubaGamer7634)
 
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-blue?logo=EasyEDA&logoColor=white)](https://oshwlab.com/juliaasantos/works)
-
+[![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://forum.arduino.cc/u/eletricjujuba/summary)
 
   
 
